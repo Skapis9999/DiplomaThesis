@@ -1,7 +1,7 @@
 ![Stars](https://img.shields.io/github/stars/Skapis9999/DiplomaThesis)
 ![Licence](https://img.shields.io/github/license/Skapis9999/DiplomaThesis)
 ![Top Language](https://img.shields.io/github/languages/top/Skapis9999/DiplomaThesis)
-![Languages](https://img.shields.io/github/languages/languages/count/Skapis9999/DiplomaThesis)
+![Languages](https://img.shields.io/github/languages/count/Skapis9999/DiplomaThesis)
 
 # DiplomaThesis
 This is my Diploma Thesis "Development of a Private Dynamic Internet-based Question-Answering System"
