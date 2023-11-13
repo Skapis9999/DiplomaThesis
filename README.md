@@ -1,5 +1,5 @@
 ![Stars](https://img.shields.io/github/stars/Skapis9999/DiplomaThesis)
-![Licence](https://img.shields.io/github/license/Skapis9999/DiplomaThesis)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Top Language](https://img.shields.io/github/languages/top/Skapis9999/DiplomaThesis)
 ![Languages](https://img.shields.io/github/languages/count/Skapis9999/DiplomaThesis)
 
