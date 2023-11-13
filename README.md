@@ -6,7 +6,9 @@ searches the web for answers. This system, using pre-trained models and software
 Experimental results demonstrate that this system is sufficiently accurate while achieving the purposes for which it was developed. The analytical and conversational style of conventional digital assistants is sacrificed in order to exploit the maximum amount of information. Furthermore, the extensions of the system may lead to its use in specialised systems where the information available is limited and again comes from the internet but only from a specific source.
 
 -https://img.shields.io/badge/this_is_a-badge
+
 GET /github/followers/:Skapis9999
+
 MIT License
 
 Copyright (c) 2023 Christos Skapetis
